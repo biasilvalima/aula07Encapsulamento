@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\bin\Debug\netcoreapp3.1\aula07Encapsulamento.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\bin\Debug\netcoreapp3.1\aula07Encapsulamento.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\bin\Debug\netcoreapp3.1\aula07Encapsulamento.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\bin\Debug\netcoreapp3.1\aula07Encapsulamento.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\bin\Debug\netcoreapp3.1\aula07Encapsulamento.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\bin\Debug\netcoreapp3.1\aula07Encapsulamento.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula07Encapsulamento\obj\Debug\netcoreapp3.1\aula07Encapsulamento.genruntimeconfig.cache
